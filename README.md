@@ -14,14 +14,15 @@
             </div>
 
 
+---
 
 C is a general-purpose programming language with features economy of expression, modern flow control and data structures, and a rich set of operators.
 
+---
 
-<code style="background:red;color:white">
-C, ifade ekonomisi, modern akış kontrolü ve veri yapıları ve zengin operatör kümesi gibi özelliklere sahip genel amaçlı bir programlama dilidir.
+<code style="background:red;color:white">C, ifade ekonomisi, modern akış kontrolü ve veri yapıları ve zengin operatör kümesi gibi özelliklere sahip genel amaçlı bir programlama dilidir.
 </code>
 
 
 
-            Günlük hayatta karşılaşabieceğimiz problemlere yönelik çözümler oluşturmak için tasarlanmış C programlaa dilinde yazılmış kod uygulamaları.
+Günlük hayatta karşılaşabieceğimiz problemlere yönelik çözümler oluşturmak için tasarlanmış C programlaa dilinde yazılmış kod uygulamaları.
