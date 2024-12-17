@@ -20,9 +20,10 @@ C is a general-purpose programming language with features economy of expression,
 
 ---
 
-<code style="background:red;color:white">C, ifade ekonomisi, modern akış kontrolü ve veri yapıları ve zengin operatör kümesi gibi özelliklere sahip genel amaçlı bir programlama dilidir.
+<code style="background:red;color:white">C, ifade ekonomisi, modern akış kontrolü ve veri yapıları ve zengin operatör kümesi gibi özelliklere sahip genel amaçlı, statik olarak yazılmış, prosedürel bir programlama dilidir.
 </code>
 
+1972 yılında Dennis Ritchie tarafından Bell Labs'te UNIX OS ile çalışması için yaratılmıştır. AMa bir çok dilin anası, atası olmuştur. Düşük seviye/ Low-level memory/bellek ve donanım/hardware kontrolü sağlar.
 
 
 Günlük hayatta karşılaşabieceğimiz problemlere yönelik çözümler oluşturmak için tasarlanmış C programlaa dilinde yazılmış kod uygulamaları.
