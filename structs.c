@@ -1,5 +1,11 @@
 // C Programlama dilinde struct'lar
 
+/*Struct - Değişkenler kümesi, değişkenlerin paketlenmiş hali
+
+Personel - İsim, Cinsiyet, Ağırlık, Boy, Eğitim Düzeyi gibi değişkenleri bir arada tutan ve hepsini aynı anda hafızada depolayan kullanıcı tanımlı değişken türü
+
+Büyük Veri Yapısı, bir tabloda bir observaton değerlerinin hepsini tutabilir*/
+
 #include <stdio.h>
 #include <string.h>
 
