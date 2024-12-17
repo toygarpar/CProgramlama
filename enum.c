@@ -16,6 +16,7 @@ enum Levels {
     HI = 24
 };
 
+
 int main() {
     //enum türünde bir değişken tanımlama ve değer atama
 
