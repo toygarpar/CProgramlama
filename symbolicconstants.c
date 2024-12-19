@@ -7,7 +7,8 @@ A #define line defines a symbolic name or symbolic constant to be a particular s
 
 #include <stdio.h>
 
-
+//notice that the symbolic constants are written in uppercase letters to indicate that they are not variables
+//notice that no semicolon appears at the end of a #define line
 #define LOWER 0 //lower limit of the table
 #define UPPER 300 //upper limit
 #define STEP 20 //step size
