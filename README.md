@@ -26,4 +26,4 @@ C is a general-purpose programming language with features economy of expression,
 1972 yılında Dennis Ritchie tarafından Bell Labs'te UNIX OS ile çalışması için yaratılmıştır. Ama tabiri caizse bir çok dilin anası, atası olmuştur. Düşük seviye/ Low-level memory/bellek ve donanım/hardware kontrolü sağlar.
 
 
-Günlük hayatta karşılaşabieceğimiz problemlere yönelik çözümler oluşturmak için tasarlanmış C programlama dilinde yazılmış kod uygulamaları.
+Günlük hayatta karşılaşabieceğimiz problemlere yönelik çözümler oluşturmak için tasarlanmış başlangiç ve orta seviyede C programlama dilinde yazılmış kod uygulamaları.
