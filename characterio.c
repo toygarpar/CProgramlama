@@ -20,7 +20,7 @@ int main()
     int c;
 
     c = getchar();
-    while (c != EOF)
+    while (c != EOF) //ctrl +d as input to cause an EOF, to end the program
     {
         putchar(c);
         c = getchar();
