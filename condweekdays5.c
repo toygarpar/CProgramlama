@@ -1,5 +1,7 @@
 //Haftanın günlerini isim bazında yazdrma: switch case kullanarak: case or kullanarak
 
+//bu kod hata mesajı alır: duplicate case value
+
 #include <stdio.h>
 
 int main() {
